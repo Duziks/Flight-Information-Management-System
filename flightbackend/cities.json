@@ -1,0 +1,30 @@
+[
+  {
+    "name": "北京",
+    "weight": 100
+  },
+  {
+    "name": "深圳",
+    "weight": 95
+  },
+  {
+    "name": "上海",
+    "weight": 98
+  },
+  {
+    "name": "广州",
+    "weight": 90
+  },
+  {
+    "name": "厦门",
+    "weight": 85
+  },
+  {
+    "name": "威海",
+    "weight": 70
+  },
+  {
+    "name": "银川",
+    "weight": 50
+  }
+]
