@@ -112,25 +112,4 @@ curl http://localhost:3000/flights
 
 ---
 
-## 开发建议 ✨
-- 使用 `nodemon` 提高后端开发效率。
-- 将后端地址抽成环境变量或配置文件，方便多环境切换（开发/生产）。
-- 若需要更持久的存储，建议改为使用数据库（SQLite / PostgreSQL / MongoDB）。
 
----
-
-## 贡献 Contributing
-欢迎提交 PR 或 issue，描述清楚你要改动的内容与复现步骤。
-
----
-
-## 许可证
-默认 MIT（如需更改，请更新此处）。
-
----
-
-如果你希望，我可以：
-- 为 `flightbackend` 添加 `start` 脚本并提交修改；
-- 或者把示例前端请求（fetch/axios）加入到 `flight2` 的某个页面示例中。
-
-要我做哪一项？ ✨
